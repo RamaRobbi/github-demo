@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 this is rama 
 and is master file
+=======
+
+sithis is rama
+ hfgsdfg
+  dasdfgasdgf]
+  afafaf
+  a fafg
+
+>>>>>>> new3
